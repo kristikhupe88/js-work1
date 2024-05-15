@@ -13,7 +13,7 @@ else {
 //example2
 
 let firstname = 'მარიამ';
-let result  = (firstname = 'მარიამ') ? true : false ;
+let result  = (firstname == 'მარიამ') ? true : false ;
 console.log (result);
 
 //example3
